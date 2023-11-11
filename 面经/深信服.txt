@@ -1,0 +1,8 @@
+1、模型的偏差和方差
+2、多头注意力中softmax里面v要/根号d是为什么
+3、transformer的运算瓶颈在哪？词向量的长度 -> 如何解决？
+4、知识蒸馏原理
+5、介绍下bagging和boosting
+6、对GPT的了解
+7、解决样本不均衡的方法
+8、transformer的计算量
